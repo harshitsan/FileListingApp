@@ -5,7 +5,7 @@ public class DriverClass extends Explorer{
 	public static void main(String[] args) {
 
 		System.out.print("\t\tInstructions to use:-\n\t\t1).Create a 'ABC' file containing(Main Directory & full path of output.csv file along With file name)"
-				+ "\n\t\t2).make sure that an empty output.csv is present at given output location."
+				+ "\n\t\t2).Make sure that an empty output.csv is present at given output location."
 				+ "\n\t\t3).Execute the program by Entering the path of 'ABC.txt' file.\n\tBy.Rashim_Malhotra"); 
 		System.out.print("\nEnter the Address of File.:- ");
 
